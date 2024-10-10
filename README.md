@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 https://emojipedia.org/microsoft/ é uma boa opção para buscar emojis
 -->
-## Olá, sou Alison Alecrim... Ok: Dourado que nasceu no campo sem ser semeado 😂
+## Olá, sou Alison Alecrim... Desenvolvedor de soluções
 <div align="center">
   <a href="https://github.com/alisonalecrim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonalecrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
